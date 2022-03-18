@@ -2,7 +2,7 @@ int led = 13;
 
 void setup() {
 
-    printMode(led, OUTPUT);
+    pinMode(led, OUTPUT);
     
 }
 
