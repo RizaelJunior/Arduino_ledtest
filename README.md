@@ -1,2 +1,2 @@
 # Arduino_ledtest
-Código simples para testar led no arduino.
+Código simples para testar placa do arduino.
